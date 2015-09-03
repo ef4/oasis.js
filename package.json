@@ -14,5 +14,6 @@
   "license": "BSD",
   "readmeFilename": "README.md",
   "devDependencies": {
+    "ember-cli": "^1.13.8"
   }
 }
