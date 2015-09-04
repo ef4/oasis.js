@@ -3,9 +3,6 @@
   "version": "0.4.0",
   "description": "Oasis.js is a pleasant API for safe communication with untrusted code in sandboxed iframes.",
   "main": "index.js",
-  "scripts": {
-    "postinstall": "bower install"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/tildeio/oasis.js.git"
